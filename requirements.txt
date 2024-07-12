@@ -4,3 +4,4 @@ llama-index-embeddings-huggingface
 llama-index-embeddings-huggingface-api
 python-dotenv
 ipykernel
+requests
