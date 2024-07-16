@@ -6,3 +6,6 @@ python-dotenv
 ipykernel
 requests
 matplotlib
+utils
+ollama
+llama-index-llms-ollama
