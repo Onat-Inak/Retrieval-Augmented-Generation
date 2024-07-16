@@ -9,3 +9,9 @@ matplotlib
 utils
 ollama
 llama-index-llms-ollama
+langchain
+langchain-experimental
+langchain-text-splitters
+langchain-community
+unstructured=0.7.12
+chromadb
